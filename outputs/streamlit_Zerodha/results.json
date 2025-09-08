@@ -1,0 +1,526 @@
+{
+  "company": "Zerodha",
+  "industry": "FinTech",
+  "titles": [
+    "Personalized Investment Recommendations",
+    "AI-Powered Chatbot for Customer Support",
+    "Algorithmic Trading Strategies Optimization",
+    "Fraud Detection and Prevention",
+    "Automated Financial Report Generation",
+    "Enhanced Fintech Ecosystem Integration",
+    "Predictive Customer Churn Modeling"
+  ],
+  "resources": {
+    "Personalized Investment Recommendations": {
+      "kaggle": [
+        {
+          "title": "Clustering stocks for investment recommendation",
+          "snippet": "By doing a cluster analysis, one can identify stocks that exhibit similar characteristics and ones which exhibit minimum correlation.",
+          "link": "https://www.kaggle.com/code/mariyamalshatta/clustering-stocks-for-investment-recommendation"
+        },
+        {
+          "title": "Investments",
+          "snippet": "Historic data of a personal investment portfolio in an online platform for SME lending fund in Portugal.",
+          "link": "https://www.kaggle.com/datasets/ammm92/personal-investments"
+        },
+        {
+          "title": "Trade & Ahead stock data",
+          "snippet": "Trade&Ahead is a financial consultancy firm who provide their customers with personalized investment strategies. They have hired you as a Data Scientist and ...",
+          "link": "https://www.kaggle.com/datasets/mariyamalshatta/trade-and-ahead-stock-data"
+        },
+        {
+          "title": "Stock Portfolio Data with Prices and Indices",
+          "snippet": "This dataset consists of five CSV files that provide detailed data on a stock portfolio and related market performance over the last 5 years.",
+          "link": "https://www.kaggle.com/datasets/nikitamanaenkov/stock-portfolio-data-with-prices-and-indices"
+        },
+        {
+          "title": "financial_advisor",
+          "snippet": "Consulting a financial advisor can provide personalized guidance. What investments should you consider?: Mutual Fund Please note that this output is generic and ...",
+          "link": "https://www.kaggle.com/code/mandu5/financial-advisor"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "globosetechnology12/Financial-Portfolio-Management",
+          "snippet": "Trained robo-advisors to provide personalized investment recommendations based on client goals and risk preferences. Validation. Tested models with ...",
+          "link": "https://huggingface.co/datasets/globosetechnology12/Financial-Portfolio-Management"
+        },
+        {
+          "title": "nihiluis/financial-advisor-100 \u00b7 Datasets at Hugging Face",
+          "snippet": "**Investment Strategy:** While it sounds like your investment strategy is working, a financial advisor could provide a second opinion or suggest other ...",
+          "link": "https://huggingface.co/datasets/nihiluis/financial-advisor-100"
+        },
+        {
+          "title": "Lightscale/financial-advise-summarization \u00b7 Datasets at ...",
+          "snippet": "Common income categories include: Alimony Bonuses Child support Disability benefits Interest and dividends Rents and royalties Retirement income ...",
+          "link": "https://huggingface.co/datasets/Lightscale/financial-advise-summarization"
+        },
+        {
+          "title": "camel-ai/ai_society \u00b7 Datasets at Hugging Face",
+          "snippet": "Recommending personalized budget plans and offering investment options that align with the clients' short and long-term financial goals based on thorough ...",
+          "link": "https://huggingface.co/datasets/camel-ai/ai_society"
+        }
+      ],
+      "github": [
+        {
+          "title": "personalized-recommendations \u00b7 GitHub Topics",
+          "snippet": "Designed for scalability and deep personalization, LinkLens turns raw user interactions into meaningful, real-time recommendations by modeling behavior as ...",
+          "link": "https://github.com/topics/personalized-recommendations"
+        },
+        {
+          "title": "marinaredamekhael/FinancialAdvisor",
+          "snippet": "A personalized financial advisory web application that leverages machine learning, sentiment analysis, and real-time market data to recommend smart investment ...",
+          "link": "https://github.com/marinaredamekhael/FinancialAdvisor"
+        },
+        {
+          "title": "jash0803/financial-asset-recommendation",
+          "snippet": "This system is built upon the FAR-Trans dataset, a comprehensive financial asset recommendation dataset, provided by a European financial institution. Citation:.",
+          "link": "https://github.com/jash0803/financial-asset-recommendation"
+        },
+        {
+          "title": "InvestSmart: Personalized Commercial Real Estate Deal ...",
+          "snippet": "AI-powered commercial real estate recommendation engine providing personalized, high-ROI property deals using hybrid filtering and deal scoring.",
+          "link": "https://github.com/VyjayanthiPolapragada/InvestSmart_Recommender"
+        }
+      ]
+    },
+    "AI-Powered Chatbot for Customer Support": {
+      "kaggle": [
+        {
+          "title": "Bitext Gen AI Chatbot Customer Support Dataset",
+          "snippet": "Overview. This dataset can be used to train Large Language Models such as GPT, Llama2 and Falcon, both for Fine Tuning and Domain Adaptation. The ...",
+          "link": "https://www.kaggle.com/datasets/bitext/bitext-gen-ai-chatbot-customer-support-dataset"
+        },
+        {
+          "title": "Training Dataset for chatbots/Virtual Assistants",
+          "snippet": "The dataset covers the \"Customer Support\" domain and includes 27 intents grouped in 11 categories. These intents have been selected from Bitext's collection of ...",
+          "link": "https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants"
+        },
+        {
+          "title": "Dataset for chatbot",
+          "snippet": "I tried to find the simple dataset for a chat bot (seq2seq). Then I decided to compose it myself. It is based on a website with simple dialogues for beginners.",
+          "link": "https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot"
+        },
+        {
+          "title": "AI-Powered Customer Support Chatbot Using Gen AI",
+          "snippet": "This notebook demonstrates an end-to-end pipeline for an AI-powered customer support assistant. It leverages: Document Understanding using a sample FAQ/support ...",
+          "link": "https://www.kaggle.com/code/shreyansu/ai-powered-customer-support-chatbot-using-gen-ai"
+        },
+        {
+          "title": "Customer Support Enhancing Efficiency",
+          "snippet": "This dataset is designed to support the development of an AI-driven multi-agent system for enhancing customer support operations.",
+          "link": "https://www.kaggle.com/datasets/suvroo/customer-support-enhancing-efficiency"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "bitext/Bitext-customer-support-llm-chatbot-training-dataset",
+          "snippet": "Bitext-customer-support-llm-chatbot-training-dataset ... This rich set of tokens is essential for training advanced LLMs for AI Conversational, AI Generative, and ...",
+          "link": "https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset"
+        },
+        {
+          "title": "MakTek/Customer_support_faqs_dataset at refs/pr/2",
+          "snippet": "This dataset is intended for use in developing and training AI models for customer support chatbots, automated response systems, or any other ...",
+          "link": "https://huggingface.co/datasets/MakTek/Customer_support_faqs_dataset/blob/refs%2Fpr%2F2/README.md"
+        },
+        {
+          "title": "Datasets at Hugging Face",
+          "snippet": "Developed a gen-AI chatbot for enhancing self-service capabilities and improving answer quality on customer queries.",
+          "link": "https://huggingface.co/datasets/jonah-ramponi/Google_AI_101_Customer_Use_Cases_2024/viewer/default/train"
+        },
+        {
+          "title": "Looking for vulnerable customer support Datasets ...",
+          "snippet": "I'm working on building a multi-turn chatbot designed to support vulnerable customers. The aim is to create a system that can handle sensitive ...",
+          "link": "https://discuss.huggingface.co/t/looking-for-vulnerable-customer-support-datasets-for-building-a-multi-turn-chatbot/166684"
+        }
+      ],
+      "github": [
+        {
+          "title": "bitext/customer-support-llm-chatbot-training-dataset",
+          "snippet": "This dataset can be used to train Large Language Models such as GPT, Llama2 and Falcon, both for Fine Tuning and Domain Adaptation.",
+          "link": "https://github.com/bitext/customer-support-llm-chatbot-training-dataset"
+        },
+        {
+          "title": "Customer support chatbot based on seq2seq model.",
+          "snippet": "This project implements chatbot which tries to answer users questions as customer support agent. Following customer support chatbots were implemented.",
+          "link": "https://github.com/ldulcic/customer-support-chatbot"
+        },
+        {
+          "title": "FareedKhan-dev/AI-Chatbot-Conversation-Dataset",
+          "snippet": "The original data contains 500k conversations, but this is just a sample. You can download the 10k dataset with personal and sensitive information removed.",
+          "link": "https://github.com/FareedKhan-dev/AI-Chatbot-Conversation-Dataset"
+        },
+        {
+          "title": "AI Chatbot using Deep Learning and Natural Language ...",
+          "snippet": "This repository covers four main components: a) Creating the chatbot using NLTK and Feedforward Neural Network (FNN): Chatbot Features Chatbot applications",
+          "link": "https://github.com/ongaunjie1/AI-Chatbot-DL-NLP"
+        }
+      ]
+    },
+    "Algorithmic Trading Strategies Optimization": {
+      "kaggle": [
+        {
+          "title": "Algorithmic Trading: Case Study",
+          "snippet": "This analysis helps in developing and refining trading strategies and identifying potential trading opportunities.",
+          "link": "https://www.kaggle.com/datasets/bhanupratapbiswas/algorithmic-trading-case-study"
+        },
+        {
+          "title": "Building an Asset Trading Strategy",
+          "snippet": "Automated Machine Learning trading algorithms can assist in managing this task, in order to predict the market's movement. We can use models to classify ...",
+          "link": "https://www.kaggle.com/code/shtrausslearning/building-an-asset-trading-strategy"
+        },
+        {
+          "title": "Stock Market Dataset",
+          "snippet": "The \"Stock Market Dataset for AI-Driven Prediction and Trading Strategy Optimization\" is designed to simulate real-world stock market data for training and ...",
+          "link": "https://www.kaggle.com/datasets/ziya07/stock-market-dataset"
+        },
+        {
+          "title": "Deep Learning Models for Stock Market Insights",
+          "snippet": "Algorithmic trading strategies to optimize buying and selling decisions. Financial research for investment and risk management. By analyzing this dataset ...",
+          "link": "https://www.kaggle.com/code/muhammedaliyilmazz/deep-learning-models-for-stock-market-insights/notebook"
+        },
+        {
+          "title": "\ud83e\udd16 Trading with Machine Learning: Regression",
+          "snippet": "In this notebook, we are going to observe how we can use regression algorithms to predict the following trading day's returns for a certain stock. ... trading ...",
+          "link": "https://www.kaggle.com/code/lusfernandotorres/trading-with-machine-learning-regression"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "lumalik/Quant-Trading-Instruct \u00b7 Datasets at Hugging Face",
+          "snippet": "Provide me a code example for a quant trading strategy that uses fundamental data to select a universe of stocks and makes trades based on ...",
+          "link": "https://huggingface.co/datasets/lumalik/Quant-Trading-Instruct"
+        },
+        {
+          "title": "yymYYM/stock_trading_QA \u00b7 Datasets at Hugging Face",
+          "snippet": "Algorithmic trading algorithms can automatically detect anomalies in stock prices, trigger buy/sell orders based on predefined criteria, and optimize trading ...",
+          "link": "https://huggingface.co/datasets/yymYYM/stock_trading_QA"
+        },
+        {
+          "title": "efe1903/NEW_TRAINING01 \u00b7 Datasets at Hugging Face",
+          "snippet": "TRADING ANALYSIS for DOT | Market: Sideways, Price: $45,238. Strategy: Range trading. Risk Level: High. Expected Return: 44%. Time Frame: 1M.",
+          "link": "https://huggingface.co/datasets/efe1903/NEW_TRAINING01"
+        },
+        {
+          "title": "lumalik/Quant-Trading-Instruct \u00b7 Datasets at Hugging Face",
+          "snippet": "Provide me a code example for a quant trading strategy that uses fundamental data to select a universe of stocks and makes trades based on the changes in ...",
+          "link": "https://huggingface.co/datasets/lumalik/Quant-Trading-Instruct/viewer/default/train"
+        }
+      ],
+      "github": [
+        {
+          "title": "stefan-jansen/machine-learning-for-trading",
+          "snippet": "This book aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques ...",
+          "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
+        },
+        {
+          "title": "algorithmic-trading",
+          "snippet": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
+          "link": "https://github.com/topics/algorithmic-trading"
+        },
+        {
+          "title": "jodhangill/GenTrader: Trading strategy optimizer with ...",
+          "snippet": "GenTrader is a powerful tool that leverages genetic algorithms in conjunction with the Backtrader Python library to optimize trading strategy parameters across ...",
+          "link": "https://github.com/jodhangill/GenTrader"
+        },
+        {
+          "title": "merovinh/best-of-algorithmic-trading",
+          "snippet": "A ranked list of algorithmic trading open-source libraries, frameworks, bots, tools, books, communities, education materials. Updated weekly.",
+          "link": "https://github.com/merovinh/best-of-algorithmic-trading"
+        }
+      ]
+    },
+    "Fraud Detection and Prevention": {
+      "kaggle": [
+        {
+          "title": "Credit Card Fraud Detection",
+          "snippet": "Credit Card Fraud Detection. Anonymized credit card transactions labeled as fraudulent or genuine. arrow_drop_up 12434.",
+          "link": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"
+        },
+        {
+          "title": "Fraud Detection Dataset",
+          "snippet": "With this dataset, you can investigate fraudulent behavior, identify indicators of fraud, and develop effective fraud detection models. Uncover the secrets of ...",
+          "link": "https://www.kaggle.com/datasets/goyaladi/fraud-detection-dataset"
+        },
+        {
+          "title": "Financial Fraud Detection Dataset",
+          "snippet": "Please note that transactions marked as fraudulent have been nullified, emphasizing the importance of non-balance columns for fraud analysis. This dataset is a ...",
+          "link": "https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset"
+        },
+        {
+          "title": "Credit Card Transactions Fraud Detection Dataset",
+          "snippet": "This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020.",
+          "link": "https://www.kaggle.com/datasets/kartik2112/fraud-detection"
+        },
+        {
+          "title": "Synthetic Financial Datasets For Fraud Detection",
+          "snippet": "Synthetic Financial Datasets For Fraud Detection. Synthetic datasets ... In this specific dataset the fraudulent behavior of the agents aims to profit by taking ...",
+          "link": "https://www.kaggle.com/datasets/ealaxi/paysim1"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "globosetechnology12/Fraud-Detection-in-Financial-Services",
+          "snippet": "A comprehensive fraud detection system was developed using advanced anomaly detection models, combining supervised and unsupervised learning techniques. The ...",
+          "link": "https://huggingface.co/datasets/globosetechnology12/Fraud-Detection-in-Financial-Services"
+        },
+        {
+          "title": "amitkedia/Financial-Fraud-Dataset",
+          "snippet": "The dataset consists of 85 companies involved in fraudulent cases and an equal number of companies not involved in fraudulent activities. The Fillings column ...",
+          "link": "https://huggingface.co/datasets/amitkedia/Financial-Fraud-Dataset"
+        },
+        {
+          "title": "purulalwani/Synthetic-Financial-Datasets-For-Fraud ...",
+          "snippet": "Datasets: \u00b7 purulalwani. /. Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned. like 2. Modalities: Text. Formats: parquet. Size: 1M - 10M.",
+          "link": "https://huggingface.co/datasets/purulalwani/Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned"
+        },
+        {
+          "title": "Bilic/Mistral-7B-LLM-Fraud-Detection",
+          "snippet": "A fine-tuned version of the Mistral-7B-v0.1 generative text model using a variety of synthetically generated Fraudulent transcripts datasets.",
+          "link": "https://huggingface.co/Bilic/Mistral-7B-LLM-Fraud-Detection"
+        }
+      ],
+      "github": [
+        {
+          "title": "amazon-science/fraud-dataset-benchmark",
+          "snippet": "The FDB aims to cover a wide variety of fraud detection tasks, ranging from card not present transaction fraud, bot attacks, malicious traffic, loan risk and ...",
+          "link": "https://github.com/amazon-science/fraud-dataset-benchmark"
+        },
+        {
+          "title": "Bank Account Fraud (BAF) Tabular Dataset Suite",
+          "snippet": "We present Bank Account Fraud (BAF), the first publicly available 1 privacy-preserving, large-scale, realistic suite of tabular datasets.",
+          "link": "https://github.com/feedzai/bank-account-fraud"
+        },
+        {
+          "title": "Pyligent/CMS-Medicare-Data-FRAUD-Detection",
+          "snippet": "This Capstone project will build a Medicare Fraud Detection model to analyze open data and predict/detect the fraudulent Medicare providers.",
+          "link": "https://github.com/Pyligent/CMS-Medicare-Data-FRAUD-Detection"
+        },
+        {
+          "title": "Fraud Detection with Deep Neural Networks (DNN) \ud83e\udde0 \u26a0\ufe0f",
+          "snippet": "A hands-on personal project to predict fraudulent financial transactions using deep learning. Covers the full pipeline: from exploratory data analysis (EDA) ...",
+          "link": "https://github.com/sergio11/online_payment_fraud"
+        }
+      ]
+    },
+    "Automated Financial Report Generation": {
+      "kaggle": [
+        {
+          "title": "Financial Reporting with AI and Natural Language ...",
+          "snippet": "NLG generates human-like text from data, converting raw financial figures into clear, coherent narrative reports. This advancement streamlines reporting and ...",
+          "link": "https://www.kaggle.com/general/529307"
+        },
+        {
+          "title": "\ud83d\udcb3 Financial Transactions Dataset: Analytics",
+          "snippet": "This comprehensive financial dataset combines transaction records, customer information, and card data from a banking institution, spanning ...",
+          "link": "https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets"
+        },
+        {
+          "title": "GenAI Finance Chatbot",
+          "snippet": "Building a Financial GenAI Base Chatbot for answering Company Specific product queries and helping customer to use and buy products effectively.",
+          "link": "https://www.kaggle.com/code/simranjeetsingh1430/genai-finance-chatbot"
+        },
+        {
+          "title": "Credit_card_financial_dashboard",
+          "snippet": "An interactive Power BI dashboard using transaction and customer data to provide real-time insights into credit card usage and performance.",
+          "link": "https://www.kaggle.com/datasets/nidhibopche/credit-card-financial-dashboard"
+        },
+        {
+          "title": "Rag Instruct Benchmark Tester",
+          "snippet": "This RAG: Financial & Legal Retrieval-Augmented-Generation Benchmark Evaluation Dataset provides a unique opportunity for professionals in the legal and ...",
+          "link": "https://www.kaggle.com/datasets/thedevastator/rag-financial-legal-evaluation-dataset"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "globosetechnology12/Automated-Financial-Reporting \u00b7 Datasets ...",
+          "snippet": "Collect and consolidate financial data from multiple systems and databases. Analyze data to detect trends, anomalies, and key performance indicators (KPIs).",
+          "link": "https://huggingface.co/datasets/globosetechnology12/Automated-Financial-Reporting"
+        },
+        {
+          "title": "gretelai/synthetic_pii_finance_multilingual \u00b7 Datasets at ...",
+          "snippet": "Develop MT940.4 by generating a dataset that showcases transactions related to investment products, such as stocks, bonds, and mutual funds. Include detailed ...",
+          "link": "https://huggingface.co/datasets/gretelai/synthetic_pii_finance_multilingual"
+        },
+        {
+          "title": "virattt/financial-qa-10K \u00b7 Datasets at Hugging Face",
+          "snippet": "NVIDIA's GPUs and software are used for automation in various industries including transportation, healthcare, financial services, professional design, movies, ...",
+          "link": "https://huggingface.co/datasets/virattt/financial-qa-10K"
+        },
+        {
+          "title": "sujet-ai/Sujet-Finance-Vision-10k \u00b7 Datasets at Hugging Face",
+          "snippet": "The dataset consists of 9819 handpicked images of financial documents, including invoices, budget sheets, and other relevant documents. The ...",
+          "link": "https://huggingface.co/datasets/sujet-ai/Sujet-Finance-Vision-10k"
+        }
+      ],
+      "github": [
+        {
+          "title": "nickenshidqia/SQL-for-Financial-Data-Analysis",
+          "snippet": "By leveraging these datasets, the system will generate essential financial reports including Profit and Loss (P&L) statements, Balance Sheets, and Cash Flow ...",
+          "link": "https://github.com/nickenshidqia/SQL-for-Financial-Data-Analysis"
+        },
+        {
+          "title": "JerBouma/FinanceToolkit: Transparent and Efficient ...",
+          "snippet": "This is an open-source toolkit in which all relevant financial ratios (150+), indicators and performance measurements are written down in the most simplistic ...",
+          "link": "https://github.com/JerBouma/FinanceToolkit"
+        },
+        {
+          "title": "RAG for Complex Data in Financial Analysis",
+          "snippet": "This project combines AI-powered document retrieval with contextual response generation for scalable, insightful financial analytics.",
+          "link": "https://github.com/Dharundp6/RAG_for_Complex_Data"
+        },
+        {
+          "title": "FinGPT: Open-Source Financial Large Language Models ...",
+          "snippet": "FinGPT presents a more accessible alternative. It prioritizes lightweight adaptation, leveraging the best available open-source LLMs.",
+          "link": "https://github.com/AI4Finance-Foundation/FinGPT"
+        }
+      ]
+    },
+    "Enhanced Fintech Ecosystem Integration": {
+      "kaggle": [
+        {
+          "title": "Amplification Through Known Attacks: SET 1",
+          "snippet": "To enhance your position: 1) Strengthen the digital inclusion narrative through comprehensive impact metrics tracking village-level economic ...",
+          "link": "https://www.kaggle.com/code/taylorsamarel/amplification-through-known-attacks-set-1"
+        },
+        {
+          "title": "YC Startup Directory - 2024",
+          "snippet": "With its intensive three-month program, Y Combinator provides startups with seed funding, mentorship, and access to a vast network of investors and experts.",
+          "link": "https://www.kaggle.com/datasets/radema/yc-startup-directory-2024/data"
+        },
+        {
+          "title": "Introducing Kaggle Benchmarks",
+          "snippet": "Kaggle is thrilled to announce the launch of Kaggle Benchmarks, our new platform that makes AI evaluation accessible to everyone, ...",
+          "link": "https://www.kaggle.com/blog/announcing-kaggle-benchmarks"
+        },
+        {
+          "title": "Data for Text Analytics",
+          "snippet": "Strong coding experience in Python, Python libraries, TensorFlow, Keras Good communication skills - Presentable to stakeholders Experience with Content ...",
+          "link": "https://www.kaggle.com/datasets/amitpa19/data-for-text-analytics"
+        },
+        {
+          "title": "Fine-tuned Bart on Jobs Data",
+          "snippet": "This Python 3 environment comes with many helpful analytics libraries installed # It is defined by the kaggle/python Docker image: ...",
+          "link": "https://www.kaggle.com/code/etietopabraham/fine-tuned-bart-on-jobs-data"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "kelvinleong/author_try \u00b7 Datasets at Hugging Face",
+          "snippet": "Understanding FinTech Ecosystem Evolution Through Service Innovation and Socio-technical System Perspective. Hung, J. L.. FinTech in Taiwan: a case study of a ...",
+          "link": "https://huggingface.co/datasets/kelvinleong/author_try/viewer/default/train?p=6"
+        },
+        {
+          "title": "lmarena-ai/vision-arena-bench-v0.1 \u00b7 Datasets at ...",
+          "snippet": "An automatic benchmark of 500 diverse user prompts that can be used to cheaply approximate Chatbot Arena model rankings via automatic benchmarking with VLM as ...",
+          "link": "https://huggingface.co/datasets/lmarena-ai/vision-arena-bench-v0.1"
+        },
+        {
+          "title": "arad1367/Crypto_Semantic_News \u00b7 Datasets at ...",
+          "snippet": "Google Cloud partners with Chainlink to integrate decentralized oracle solutions, enhancing data security and reliability for smart contracts across industries.",
+          "link": "https://huggingface.co/datasets/arad1367/Crypto_Semantic_News"
+        },
+        {
+          "title": "Datasets at Hugging Face",
+          "snippet": "Strengths include a clear value proposition: reducing costs and effort through shared resources, which aligns well with busy professionals and ...",
+          "link": "https://huggingface.co/datasets/ZennyKenny/synthetic_vc_financial_decisions_reasoning_dataset"
+        }
+      ],
+      "github": [
+        {
+          "title": "FinGPT: Open-Source Financial Large Language Models ...",
+          "snippet": "FinGPT-Benchmark: We introduce a novel Instruction Tuning paradigm optimized for open-source Large Language Models (LLMs) in finance, enhancing their ...",
+          "link": "https://github.com/AI4Finance-Foundation/FinGPT"
+        },
+        {
+          "title": "Neofin is a robust and scalable financial technology ...",
+          "snippet": "Neofin is a robust and scalable financial technology microservice system designed to provide a comprehensive suite of financial services and solutions.",
+          "link": "https://github.com/KOSASIH/Neofin"
+        },
+        {
+          "title": "os-climate/osc-dm-ecosystem-srv",
+          "snippet": "osc-dm-search-srv is a FastAPI-based search service for our Ecosystem Platform. This service leverages a Vector database to facilitate natural language ...",
+          "link": "https://github.com/os-climate/osc-dm-ecosystem-srv"
+        },
+        {
+          "title": "os-climate/osc-geo-h3grid-srv: Geospatial Data Mesh",
+          "snippet": "The h3 geospatial indexing system is an indexing system created by Uber to represent the entire globe. It consists of a series of hexagonal grids that cover the ...",
+          "link": "https://github.com/os-climate/osc-geo-h3grid-srv"
+        }
+      ]
+    },
+    "Predictive Customer Churn Modeling": {
+      "kaggle": [
+        {
+          "title": "Customer Churn Dataset",
+          "snippet": "The testing file for the churn dataset consists of 64,374 customer records and serves as a separate dataset for evaluating the performance and generalization ...",
+          "link": "https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset"
+        },
+        {
+          "title": "Churn Modelling",
+          "snippet": "This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank.",
+          "link": "https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling"
+        },
+        {
+          "title": "Telco Customer Churn",
+          "snippet": "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.",
+          "link": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"
+        },
+        {
+          "title": "CUSTOMER CHURN PREDICTION \ud83d\udcc8",
+          "snippet": "Customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers.",
+          "link": "https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction"
+        },
+        {
+          "title": "Predictive Analytics for Customer Churn: Dataset",
+          "snippet": "This dataset is part of a data science project focused on customer churn prediction for a subscription-based service.",
+          "link": "https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "scikit-learn/churn-prediction \u00b7 Datasets at Hugging Face",
+          "snippet": "Customer churn prediction dataset of a fictional telecommunication company made by IBM Sample Datasets. Context Predict behavior to retain ...",
+          "link": "https://huggingface.co/datasets/scikit-learn/churn-prediction"
+        },
+        {
+          "title": "aai510-group1/telco-customer-churn \u00b7 Datasets at ...",
+          "snippet": "This merged Telco Customer Churn dataset provides a comprehensive view of customer attributes, service usage, location data, and churn behavior.",
+          "link": "https://huggingface.co/datasets/aai510-group1/telco-customer-churn"
+        },
+        {
+          "title": "AlbieCofie/predict-customer-churn",
+          "snippet": "This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user- ...",
+          "link": "https://huggingface.co/AlbieCofie/predict-customer-churn"
+        },
+        {
+          "title": "Babayola-1/customer-churn-model",
+          "snippet": "This model predicts whether a customer is likely to churn based on historical data. It was trained on the IBM Customer Churn dataset and serialized using joblib ...",
+          "link": "https://huggingface.co/Babayola-1/customer-churn-model"
+        }
+      ],
+      "github": [
+        {
+          "title": "sharmaroshan/Churn-Modelling-Dataset",
+          "snippet": "A Predictive Churn Model is a tool that defines the steps and stages of customer churn, or a customer leaving your service or product.",
+          "link": "https://github.com/sharmaroshan/Churn-Modelling-Dataset"
+        },
+        {
+          "title": "Customer Churn Analysis - EDA and Modeling",
+          "snippet": "This project focuses on Exploratory Data Analysis (EDA) and modeling to uncover insights from the data and build predictive models to understand Customer Churn.",
+          "link": "https://github.com/rohitkulkarni08/Customer-Churn-Analysis"
+        },
+        {
+          "title": "kfrural/customer-churn-prediction",
+          "snippet": "Objective: Predict whether a customer will churn (leave the company) based on historical customer data. Dataset: Telecom customer churn data containing ...",
+          "link": "https://github.com/kfrural/customer-churn-prediction"
+        },
+        {
+          "title": "Sabdikay/Telco-Customer-Churn-Prediction-IBM-Dataset",
+          "snippet": "This project analyzes customer churn for a telco company that provided home phone and Internet services. Using a dataset of 7,043 customers and 33 variables, we ...",
+          "link": "https://github.com/Sabdikay/Telco-Customer-Churn-Prediction-IBM-Dataset"
+        }
+      ]
+    }
+  }
+}
