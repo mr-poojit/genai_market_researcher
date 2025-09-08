@@ -49,8 +49,6 @@ genai-market-researcher/
 │   └── demo/
 ├── web_app/
 │   └── app.py                   # Streamlit app
-└── reports/
-    └── final_report_template.md
 ```
 
 ---
@@ -133,20 +131,6 @@ Example outputs for `Flipkart (ecommerce)`:
 - **Resources** – Kaggle datasets, HuggingFace models, GitHub repos
 
 All results are saved in `outputs/<timestamp>/`.
-
----
-
-## 🏗️ Architecture
-
-```mermaid
-flowchart TD
-  A[User Input: Company + Industry] --> B[Research Agent (Web Search)]
-  B --> C[Gemini Summarizer]
-  C --> D[Use Case Agent]
-  D --> E[Resource Agent (Kaggle/HF/GitHub)]
-  E --> F[Outputs (.md + .json)]
-  F --> G[Streamlit UI / Final Report]
-```
 
 ---
 
