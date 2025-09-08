@@ -1,0 +1,447 @@
+{
+  "company": " Open AI",
+  "industry": " Tech",
+  "titles": [
+    "Enhanced ChatGPT Functionality via Reinforcement Learning from Human Feedback (RLHF)",
+    "Automated Model Training and Evaluation Pipeline",
+    "Predictive Modeling for Research Prioritization",
+    "AI-Powered Code Generation and Debugging for Internal Development",
+    "Personalized Learning Paths for AI Training Programs",
+    "AI-Driven Customer Support and Onboarding for ChatGPT"
+  ],
+  "resources": {
+    "Enhanced ChatGPT Functionality via Reinforcement Learning from Human Feedback (RLHF)": {
+      "kaggle": [
+        {
+          "title": "Reinforcement learning from human feedback",
+          "snippet": "The goal of this notebook is to understand the very basics of RLHF using a toy environment. One of the most well-known RLHF paper is by Christiano et al., ( ...",
+          "link": "https://www.kaggle.com/code/runway/reinforcement-learning-from-human-feedback"
+        },
+        {
+          "title": "LangChain",
+          "snippet": "... reinforcement learning with human feedback, which significantly enhances the model's performance. By following these stages, ChatGPT and LLaMA3 models are ...",
+          "link": "https://www.kaggle.com/code/amansherjadakhan/langchain"
+        },
+        {
+          "title": "Mini-Giants: \"Small\" Language Models",
+          "snippet": "In InstructGPT, this is achieved by applying the reinforcement learning from human feedback (RLHF) [42] technique on top of a GPT-3 backbone.",
+          "link": "https://www.kaggle.com/code/mistylight/mini-giants-small-language-models"
+        },
+        {
+          "title": "Building LLMs from scratch - Generative AI Report",
+          "snippet": "It is a way to use reinforcement learning to optimise LLM with human feedback. It consists of 3 main stages - Pretraining a language model (LM), gathering data ...",
+          "link": "https://www.kaggle.com/code/jayitabhattacharyya/building-llms-from-scratch-generative-ai-report"
+        },
+        {
+          "title": "A Professional Guide to Reinforcement Learning Models in ...",
+          "snippet": "The primary algorithm used is Reinforcement Learning from Human Feedback (RLHF). This is the main method used to align models like ChatGPT with human ... Stage 3: ...",
+          "link": "https://www.kaggle.com/discussions/general/588201"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "Illustrating Reinforcement Learning from Human Feedback ...",
+          "snippet": "RLHF has enabled language models to begin to align a model trained on a general corpus of text data to that of complex human values.",
+          "link": "https://huggingface.co/blog/rlhf"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF) are two fundamental processes for enhancing the capabilities ...",
+          "link": "https://huggingface.co/papers?q=SfT"
+        },
+        {
+          "title": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
+          "snippet": "In this blog post, we show all the steps involved in training a LlaMa model to answer questions on Stack Exchange with RLHF.",
+          "link": "https://huggingface.co/blog/stackllama"
+        },
+        {
+          "title": "GetSoloTech/Physical_AI \u00b7 Datasets at Hugging Face",
+          "snippet": "Reinforcement learning from human feedback (RLHF) is a critical technique used in the subsequent training phase of large language models ...",
+          "link": "https://huggingface.co/datasets/GetSoloTech/Physical_AI"
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome RLHF (RL with Human Feedback)",
+          "snippet": "The idea of RLHF is to use methods from reinforcement learning to directly optimize a language model with human feedback. RLHF has enabled language models ...",
+          "link": "https://github.com/opendilab/awesome-RLHF"
+        },
+        {
+          "title": "voidful/awesome-chatgpt-dataset: Unlock the Power of LLM",
+          "snippet": "HH-RLHF, 91K, English, The data are described in the paper: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. MIT.",
+          "link": "https://github.com/voidful/awesome-chatgpt-dataset"
+        },
+        {
+          "title": "Reinforcement Learning from Human Feedback (RLHF)",
+          "snippet": "In this step, we are interested in collecting a dataset of (input text, output text, reward) triplets. In Figure 2, there's a representation of the data ...",
+          "link": "https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093"
+        },
+        {
+          "title": "mengdi-li/awesome-RLAIF",
+          "snippet": "RLAIF is a concept that describes a type of machine learning approach where an AI agent learns by receiving feedback or guidance from another AI system.",
+          "link": "https://github.com/mengdi-li/awesome-RLAIF"
+        }
+      ]
+    },
+    "Automated Model Training and Evaluation Pipeline": {
+      "kaggle": [
+        {
+          "title": "Machine Learning Pipeline",
+          "snippet": "In this task, we will focus on creating a comprehensive pipeline for machine learning, covering all necessary aspects including data preprocessing, model ...",
+          "link": "https://www.kaggle.com/code/ayeshasal89/machine-learning-pipeline"
+        },
+        {
+          "title": "Create Pipeline in Machine Learning Model",
+          "snippet": "A machine learning pipeline describes or models your ML process : writing code, releasing it to production, performing data extractions, creating training ...",
+          "link": "https://www.kaggle.com/code/dskagglemt/create-pipeline-in-machine-learning-model"
+        },
+        {
+          "title": "Custom Machine Learning Pipeline",
+          "snippet": "It includes raw data input, data cleaning, feature engineerig, the machine learning models and model parameters, model comparison and prediction outputs. The ...",
+          "link": "https://www.kaggle.com/code/seneralkan/custom-machine-learning-pipeline"
+        },
+        {
+          "title": "Pipelines",
+          "snippet": "Pipelines are a simple way to keep your data preprocessing and modeling code organized. Specifically, a pipeline bundles preprocessing and modeling steps.",
+          "link": "https://www.kaggle.com/code/alexisbcook/pipelines"
+        },
+        {
+          "title": "Auto ML Technologies",
+          "snippet": "H2O AutoML automates the process of training and tuning a large selection of candidate models, such as Random Forests, Gradient Boosting Machines, and Deep ...",
+          "link": "https://www.kaggle.com/questions-and-answers/478083"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "GAIR/LIMR \u00b7 Hugging Face",
+          "snippet": "Our Learning Impact Measurement (LIM) methodology enables automated evaluation of training sample effectiveness, eliminating the need for manual ...",
+          "link": "https://huggingface.co/GAIR/LIMR"
+        },
+        {
+          "title": "mlabonne/llmtwin \u00b7 Datasets at Hugging Face",
+          "snippet": "This pipeline automates the process of retraining models with fresh data, ensuring that they adapt to changing conditions and maintain high performance over ...",
+          "link": "https://huggingface.co/datasets/mlabonne/llmtwin/viewer/default/train?p=1"
+        },
+        {
+          "title": "Your Automated Factory for Issue Resolution Training Data ...",
+          "snippet": "A pipeline named SWE-Factory automates the creation and validation of GitHub issue resolution datasets for training and evaluating Large Language Models.",
+          "link": "https://huggingface.co/papers/2506.10954"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "We also release a structured, annotated dataset for training models for results extraction, and a dataset for evaluating the performance of models on this task.",
+          "link": "https://huggingface.co/papers?q=automatic%20machine%20learning%20pipeline"
+        }
+      ],
+      "github": [
+        {
+          "title": "Train and predict automation model pipeline",
+          "snippet": "In this guide, you'll learn how to automatically train a computer vision model and use it to make predictions on local images directly from your Python code.",
+          "link": "https://github.com/supervisely-ecosystem/model-automation-train-and-predict-pipeline"
+        },
+        {
+          "title": "Cestovatels/YOLO-Pipeline-Auto",
+          "snippet": "A fully automated end-to-end pipeline for training, validating, and evaluating YOLOv8/v11 models for object detection and instance segmentation tasks.",
+          "link": "https://github.com/Cestovatels/YOLO-Pipeline-Auto"
+        },
+        {
+          "title": "GAIR-NLP/DatasetResearch",
+          "snippet": "Our tri-dimensional evaluation framework reveals that even advanced systems achieve only 20% accuracy, establishing rigorous baselines for ...",
+          "link": "https://github.com/GAIR-NLP/DatasetResearch"
+        },
+        {
+          "title": "The evaluation pipeline for the 2024 BabyLM Challenge.",
+          "snippet": "This code provides the backend for the BabyLM Challenge's evaluation pipeline. It is a fork of EleutherAI's lm-evaluation-harness.",
+          "link": "https://github.com/babylm/evaluation-pipeline-2024"
+        }
+      ]
+    },
+    "Predictive Modeling for Research Prioritization": {
+      "kaggle": [
+        {
+          "title": "Test Case Prioritization Data",
+          "snippet": "Dataset corresponds to the history of test case execution in a Continuous Integration Environment, collected in a month.",
+          "link": "https://www.kaggle.com/datasets/joolousada/test-case-prioritization-data"
+        },
+        {
+          "title": "Automated Scientific Literature Assessment via Mul",
+          "snippet": "The system aims to accelerate scientific discovery by prioritizing research with the highest potential and reducing the time and resource ...",
+          "link": "https://www.kaggle.com/datasets/freederiaresearch/automated-scientific-literature-assessment-via-mul"
+        },
+        {
+          "title": "Cybersecurity Threat and Awareness Program Dataset",
+          "snippet": "Predictive modeling for incident response prioritization. Cybersecurity awareness program improvement. Researchers and practitioners can use this dataset to ...",
+          "link": "https://www.kaggle.com/datasets/datasetengineer/cybersecurity-threat-and-awareness-program-dataset"
+        },
+        {
+          "title": "Disease Prediction Using Machine Learning",
+          "snippet": "This dataset has 132 parameters on which 42 different types of diseases can be predicted. All the best!",
+          "link": "https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning"
+        },
+        {
+          "title": "Google - Fast or Slow? Predict AI Model Runtime",
+          "snippet": "Train a machine learning model based on the runtime data provided to you in the training dataset and further predict the runtime of graphs and configurations ...",
+          "link": "https://www.kaggle.com/competitions/predict-ai-model-runtime"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "Daily Papers",
+          "snippet": "In this work, we introduce the Criticality Prediction dataset, a novel resource for evaluating case prioritization.",
+          "link": "https://huggingface.co/papers?q=priority%20score"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "In this work, we introduce the Criticality Prediction dataset, a novel resource for evaluating case prioritization. Our dataset features a ...",
+          "link": "https://huggingface.co/papers?q=Causal%20Information%20Prioritization"
+        },
+        {
+          "title": "DataRobot-Research/drdocs \u00b7 Datasets at ...",
+          "snippet": "Technology (including DataRobot AutoML) has made it easy for people to build predictive models, but to get value out of models, you have to deploy, monitor, and ...",
+          "link": "https://huggingface.co/datasets/DataRobot-Research/drdocs"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "Our findings reveal that for early to mid-level visual areas, response-optimized models with visual inputs offer superior prediction accuracy, while for higher ...",
+          "link": "https://huggingface.co/papers?q=predictive%20modeling"
+        }
+      ],
+      "github": [
+        {
+          "title": "PGCN: Disease gene prioritization by ...",
+          "snippet": "We propose a novel graph convolutional network-based disease gene prioritization method, PGCN, through the systematic embedding of the heterogeneous network ...",
+          "link": "https://github.com/liyu95/Disease_gene_prioritization_GCN"
+        },
+        {
+          "title": "Patient Survival Prediction | ICU Mortality Modeling",
+          "snippet": "Predicts ICU patient survival using clinical and demographic features with logistic regression, decision trees, LASSO, and AIC-based model selection in R.",
+          "link": "https://github.com/SuryaVamsi-P/Patient-Survival-Prediction-ICU-Mortality-Modeling-R"
+        },
+        {
+          "title": "valeman/awesome-conformal-prediction",
+          "snippet": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+          "link": "https://github.com/valeman/awesome-conformal-prediction"
+        },
+        {
+          "title": "PhenoSV: Interpretable phenotype-aware model for the ...",
+          "snippet": "PhenoSV is a phenotype-aware machine-learning model to predict pathogenicity of all types of structural variants (SVs) that disrupt either coding or noncoding ...",
+          "link": "https://github.com/WGLab/PhenoSV"
+        }
+      ]
+    },
+    "AI-Powered Code Generation and Debugging for Internal Development": {
+      "kaggle": [
+        {
+          "title": "llms-full-txt",
+          "snippet": "Training LLMs for code generation and understanding. Developing AI-powered tools for software development and debugging. Building AI agents that can ...",
+          "link": "https://www.kaggle.com/datasets/waifuai/llms-full-txt/data"
+        },
+        {
+          "title": "Generative AI meets art & creativity \ud83d\udcdd",
+          "snippet": "The OpenAI API include the chatGPT models for language generation, codex for code generation and DALL_E for image generation powered by Gen AI. All I really ...",
+          "link": "https://www.kaggle.com/code/dominicimbuga/generative-ai-meets-art-creativity"
+        },
+        {
+          "title": "Kaggle Winning Solutions: AI Trends & Insights",
+          "snippet": "This study offers actionable insights to help data scientists and AI practitioners adopt effective practices and anticipate emerging trends in ...",
+          "link": "https://www.kaggle.com/code/tahaalselwii/kaggle-winning-solutions-ai-trends-insights"
+        },
+        {
+          "title": "Basics of Prompting (OpenAI Based Generative AI)",
+          "snippet": "Generative AI has revolutionized the way we interact with machines, enabling them to generate human-like text, images, and even code. OpenAI's models, such ...",
+          "link": "https://www.kaggle.com/code/marusagar/basics-of-prompting-openai-based-generative-ai"
+        },
+        {
+          "title": "AI-Powered Interview Question Generator",
+          "snippet": "The dataset is specifically curated to facilitate the automated generation of contextually relevant interview questions using large language models (LLMs).",
+          "link": "https://www.kaggle.com/datasets/nikitpatel/ai-powered-interview-question-generator"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "Daily Papers",
+          "snippet": "We introduce TACO, an open-source, large-scale code generation dataset, with a focus on the optics of algorithms, designed to provide a more ...",
+          "link": "https://huggingface.co/papers?q=algorithmic%20code%20generation"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "The effectiveness of AI debugging follows a predictable exponential decay pattern; most models lose 60-80% of their debugging capability within ...",
+          "link": "https://huggingface.co/papers?q=internal%20debugging"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "Our evaluation includes three real-world coding tasks: code insertion, code deletion, and multi-place code editing. Results demonstrate that PIE ...",
+          "link": "https://huggingface.co/papers?q=version-aware%20code%20editing%20(VACE)"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "Code generation aims to automatically generate code snippets of specific programming language according to natural language descriptions. The continuous ...",
+          "link": "https://huggingface.co/papers?q=code%20creation"
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome AI-Powered Developer Tools",
+          "snippet": "This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, ...",
+          "link": "https://github.com/jamesmurdza/awesome-ai-devtools"
+        },
+        {
+          "title": "opencode-ai/opencode: A powerful AI coding agent. Built ...",
+          "snippet": "A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.",
+          "link": "https://github.com/opencode-ai/opencode"
+        },
+        {
+          "title": "ai-for-developers/awesome-ai-coding-tools",
+          "snippet": "ZZZ Code AI: AI tool for code generation, debugging, and developer query resolution. Trae: An adaptive AI IDE that helps you code faster and collaborate with AI ...",
+          "link": "https://github.com/ai-for-developers/awesome-ai-coding-tools"
+        },
+        {
+          "title": "e2b-dev/awesome-ai-agents: A list of AI autonomous agents",
+          "snippet": "A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with ...",
+          "link": "https://github.com/e2b-dev/awesome-ai-agents"
+        }
+      ]
+    },
+    "Personalized Learning Paths for AI Training Programs": {
+      "kaggle": [
+        {
+          "title": "Learning Path Index Dataset",
+          "snippet": "The Learning Path Index Dataset is a comprehensive collection of byte-sized courses and learning materials tailored for individuals eager to delve into the ...",
+          "link": "https://www.kaggle.com/datasets/neomatrix369/learning-path-index-dataset"
+        },
+        {
+          "title": "AI-Powered Personalized Learning Path Generator",
+          "snippet": "This project solves that by using GenAI to generate personalized learning paths tailored to each individual's background, interests, and goals.",
+          "link": "https://www.kaggle.com/code/kishanpatelai/ai-powered-personalized-learning-path-generator"
+        },
+        {
+          "title": "OULAD Personalized Learning Path | Recommender Sys",
+          "snippet": "This dataset belongs to Open University Online Learning Platform (Also called as Virtual Learning Environment(VLE)) that off-campus students use for accessing ...",
+          "link": "https://www.kaggle.com/code/yousefalbasel/oulad-personalized-learning-path-recommender-sys"
+        },
+        {
+          "title": "Personalized Learning Path Generator-",
+          "snippet": "Objective: The aim of this project is to develop an AI-powered Personalized Learning Path Generator that intelligently recommends a ...",
+          "link": "https://www.kaggle.com/code/adithiyhar/personalized-learning-path-generator"
+        },
+        {
+          "title": "Personalized Learning and Intelligent Tutoring",
+          "snippet": "The content of SQA training programs covers a range of topics, including quality management principles, process management, continual improvement, and risk ...",
+          "link": "https://www.kaggle.com/code/abdulkhaleel/personalized-learning-and-intelligent-tutoring"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "dvilasuero/10k_prompts_thinking_llms \u00b7 Datasets at Hugging Face",
+          "snippet": "On the one hand, AI can enhance the learning experience by offering personalized learning paths, real-time feedback, and adaptive assessments. AI-powered ...",
+          "link": "https://huggingface.co/datasets/dvilasuero/10k_prompts_thinking_llms"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "Intelligent Tutoring Systems (ITS) enhance personalized learning by predicting student answers to provide immediate and customized instruction.",
+          "link": "https://huggingface.co/papers?q=personalized%20learning"
+        },
+        {
+          "title": "FourthBrainGenAI/AI-Superstar-Dataset",
+          "snippet": "Develop time management skills for AI by setting clear goals, prioritizing tasks, breaking projects into smaller tasks, using productivity tools, and ...",
+          "link": "https://huggingface.co/datasets/FourthBrainGenAI/AI-Superstar-Dataset"
+        },
+        {
+          "title": "nvidia/Daring-Anteater \u00b7 Datasets at Hugging Face",
+          "snippet": "Daring-Anteater is a comprehensive dataset for instruction tuning, covering a wide range of tasks and scenarios.",
+          "link": "https://huggingface.co/datasets/nvidia/Daring-Anteater"
+        }
+      ],
+      "github": [
+        {
+          "title": "personalized-learning \u00b7 GitHub Topics",
+          "snippet": "A personalized study platform developed with Gemini API. It helps students structure content, stay focused and learn more efficiently.",
+          "link": "https://github.com/topics/personalized-learning"
+        },
+        {
+          "title": "moiz2405/CODENEXUS: Personalized Learning Platform ...",
+          "snippet": "A cutting-edge platform designed to empower college students with personalized learning paths, AI-driven assessments, and employability support.",
+          "link": "https://github.com/moiz2405/CODENEXUS"
+        },
+        {
+          "title": "Awesome AI and LLM for Education",
+          "snippet": "We collect papers related to artificial intelligence (AI) and large language model (LLM) for education from top conferences, journals, and specialized ...",
+          "link": "https://github.com/GeminiLight/awesome-ai-llm4education"
+        },
+        {
+          "title": "personalized-learning \u00b7 GitHub Topics",
+          "snippet": "Introducing CASCADE, a GenAI-driven study companion, revolutionizing personalized learning. Addressing diverse learning styles, CASCADE offers a suite of AI ...",
+          "link": "https://github.com/topics/personalized-learning?o=desc&s=forks"
+        }
+      ]
+    },
+    "AI-Driven Customer Support and Onboarding for ChatGPT": {
+      "kaggle": [
+        {
+          "title": "The Ultimate GPT-4 Guide",
+          "snippet": "ChatGPT is the most powerful natural language AI ever created. This guide has more than 100+ resources to help you learn how to use GPT3 and GPT4 to enhance ...",
+          "link": "https://www.kaggle.com/code/hmthanh/the-ultimate-gpt-4-guide"
+        },
+        {
+          "title": "b2b companies table",
+          "snippet": "The list reflects a strong trend toward AI-driven solutions in domains such as sales, infrastructure, finance, productivity, and engineering. Usability. info.",
+          "link": "https://www.kaggle.com/datasets/mayuringle8890/b2b-companies-table"
+        },
+        {
+          "title": "Retrieval Augmented Generation (RAG)",
+          "snippet": "Executive Summary: Generative AI applications have various use cases in the fintech industry. They can streamline customer onboarding and KYC processes, ...",
+          "link": "https://www.kaggle.com/code/harshsinghal/retrieval-augmented-generation-rag"
+        },
+        {
+          "title": "Sajjad Amjad",
+          "snippet": "The AI can create a diverse set of questions, varying in difficulty levels and formats (multiple-choice, short-answer, essay). Teachers or professors can use ...",
+          "link": "https://www.kaggle.com/sajjadamjad/discussion"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "WynterJones/chatgpt-roles \u00b7 Datasets at Hugging Face",
+          "snippet": "Offering tips on website optimization, customer experience, and conversion rate improvement, you assist users in maximizing their online sales and revenue.",
+          "link": "https://huggingface.co/datasets/WynterJones/chatgpt-roles"
+        },
+        {
+          "title": "namanbarkiya/agentprod-assignment \u00b7 Datasets at Hugging Face",
+          "snippet": "Human: What is AgentProd and how does it work? ### Assistant: AgentProd is an AI-powered platform designed for corporate professionals.",
+          "link": "https://huggingface.co/datasets/namanbarkiya/agentprod-assignment"
+        },
+        {
+          "title": "openai/collective-alignment-1 \u00b7 Datasets at ...",
+          "snippet": "Release note: In the public dataset, we include the structured demographics and the ideal-model-behavior free text. We exclude the personal \u201cself\u2011description\u201d ...",
+          "link": "https://huggingface.co/datasets/openai/collective-alignment-1"
+        },
+        {
+          "title": "fdaudens/ai-jobs-news-articles \u00b7 Datasets at Hugging Face",
+          "snippet": "Jobs involving marketing, customer service, data entry and document analysis are among those already being hit hard. AI may also replace coders, ...",
+          "link": "https://huggingface.co/datasets/fdaudens/ai-jobs-news-articles"
+        }
+      ],
+      "github": [
+        {
+          "title": "leena",
+          "snippet": "The platform offers various features, including an AI-driven employee onboarding process, frequent surveys, instant resolution to queries with case management, ...",
+          "link": "https://gist.github.com/JavierSantanaNYC/a32ec38a0d799ed82d03a68289709fe9"
+        },
+        {
+          "title": "prasannaghimiree/AI-Powered-Documentation-Retrieval- ...",
+          "snippet": "An AI-driven tool that simplifies understanding and contributing to open-source projects by analyzing repositories and documentation.",
+          "link": "https://github.com/prasannaghimiree/AI-Powered-Documentation-Retrieval-Assistant-for-Open-Source-Projects"
+        },
+        {
+          "title": "taishi-i/awesome-ChatGPT-repositories",
+          "snippet": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API - taishi-i/awesome-ChatGPT-repositories.",
+          "link": "https://github.com/taishi-i/awesome-ChatGPT-repositories"
+        },
+        {
+          "title": "Azure-Samples/chat-with-your-data-solution-accelerator",
+          "snippet": "With the addition of PostgreSQL, customers can leverage the power of a relationship-based AI solution to enhance historical conversation access, improve data ...",
+          "link": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator"
+        }
+      ]
+    }
+  }
+}

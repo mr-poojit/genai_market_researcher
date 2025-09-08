@@ -1,0 +1,526 @@
+{
+  "company": " Flipkart",
+  "industry": " Ecommerce",
+  "titles": [
+    "AI-Powered Personalized Product Recommendations",
+    "Intelligent Chatbot for Customer Support",
+    "Dynamic Pricing Optimization",
+    "AI-Driven Supply Chain Optimization",
+    "Automated Product Description Generation",
+    "Fraud Detection and Prevention",
+    "Personalized Marketing Campaigns"
+  ],
+  "resources": {
+    "AI-Powered Personalized Product Recommendations": {
+      "kaggle": [
+        {
+          "title": "Personalized Recommendations for E-Commerce\u200b\u200b",
+          "snippet": "This dataset is designed to support the development of a multi-agent AI system that enhances e-commerce platforms by delivering hyper-personalized product ...",
+          "link": "https://www.kaggle.com/datasets/suvroo/personalized-recommendations-for-e-commerce"
+        },
+        {
+          "title": "Top Recommender Datasets on Kaggle \u26a1\ufe0f",
+          "snippet": "These datasets empower data scientists, machine learning engineers, and AI enthusiasts to create algorithms that enhance user experiences across a variety of ...",
+          "link": "https://www.kaggle.com/general/447175"
+        },
+        {
+          "title": "AI-Powered Job Recommendations",
+          "snippet": "This dataset consists of 50,000 job postings spanning multiple industries, locations, experience levels, and salary brackets.",
+          "link": "https://www.kaggle.com/datasets/samayashar/ai-powered-job-recommendations"
+        },
+        {
+          "title": "Xcare-ai-skincare 01 Capstone 2025Q1",
+          "snippet": "XCare AI solves this by providing personalized skincare recommendations using Generative AI. It analyzes user queries, skin types, and product ...",
+          "link": "https://www.kaggle.com/code/annber/xcare-ai-skincare-01-capstone-2025q1"
+        },
+        {
+          "title": "Bank Product Recommendation System",
+          "snippet": "User-based collaborative filtering is a recommendation technique that leverages the similarities between users to make personalized recommendations. It is based ...",
+          "link": "https://www.kaggle.com/code/mikefan/bank-product-recommendation-system"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "HuggingFaceTB/MagPie-Pro-300k-MT \u00b7 Datasets at ...",
+          "snippet": "**Personalized Recommendations**: AI-powered recommendation engines suggest products based on customer behavior, preferences, and purchase history.\\n2.",
+          "link": "https://huggingface.co/datasets/HuggingFaceTB/MagPie-Pro-300k-MT"
+        },
+        {
+          "title": "junelee/wizard_vicuna_70k \u00b7 Datasets at ...",
+          "snippet": "These AI-powered tools can provide personalized recommendations and interventions based on an individual's unique needs and preferences, and ...",
+          "link": "https://huggingface.co/datasets/junelee/wizard_vicuna_70k"
+        },
+        {
+          "title": "QuixiAI/wizard_vicuna_70k_unfiltered \u00b7 Datasets at ...",
+          "snippet": "For example, ANNs can be used to analyze customer data and make personalized product recommendations or to predict stock prices based on historical market data.",
+          "link": "https://huggingface.co/datasets/QuixiAI/wizard_vicuna_70k_unfiltered"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "The recommender system is tested both online on real users, and on an offline dataset collected from a Norwegian web-based marketplace, FINN.no, ...",
+          "link": "https://huggingface.co/papers?q=interactive%20recommendations"
+        }
+      ],
+      "github": [
+        {
+          "title": "Public Datasets For Recommender Systems",
+          "snippet": "This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS). They are collected and tidied from Stack Overflow, ...",
+          "link": "https://github.com/caserec/Datasets-for-Recommender-Systems"
+        },
+        {
+          "title": "daconjam/Recommender-System-Datasets",
+          "snippet": "Amazon: This Amazon dataset consists of reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and ...",
+          "link": "https://github.com/daconjam/Recommender-System-Datasets"
+        },
+        {
+          "title": "Vaibhav67979/Ecommerce-product-recommendation-system",
+          "snippet": "A machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history.",
+          "link": "https://github.com/Vaibhav67979/Ecommerce-product-recommendation-system"
+        },
+        {
+          "title": "A List of Recommender Systems and Resources",
+          "snippet": "Recommendations AI deliver highly personalized product recommendations at scale. It's a part of Google Cloud's Discovery Solutions for Retail which provide ...",
+          "link": "https://github.com/grahamjenson/list_of_recommender_systems"
+        }
+      ]
+    },
+    "Intelligent Chatbot for Customer Support": {
+      "kaggle": [
+        {
+          "title": "Bitext Gen AI Chatbot Customer Support Dataset",
+          "snippet": "Overview. This dataset can be used to train Large Language Models such as GPT, Llama2 and Falcon, both for Fine Tuning and Domain Adaptation. \u00b7 Dataset Token ...",
+          "link": "https://www.kaggle.com/datasets/bitext/bitext-gen-ai-chatbot-customer-support-dataset"
+        },
+        {
+          "title": "Training Dataset for chatbots/Virtual Assistants",
+          "snippet": "The dataset covers the \"Customer Support\" domain and includes 27 intents grouped in 11 categories. These intents have been selected from Bitext's collection of ...",
+          "link": "https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants"
+        },
+        {
+          "title": "Dataset for chatbot",
+          "snippet": "I tried to find the simple dataset for a chat bot (seq2seq). Then I decided to compose it myself. It is based on a website with simple dialogues for beginners.",
+          "link": "https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot"
+        },
+        {
+          "title": "datasetforchat",
+          "snippet": "Chatbots have been used in applications such as customer service, sales and product education. However, a study conducted by Narrative Science in 2015 found ...",
+          "link": "https://www.kaggle.com/datasets/alihassanml/datasetforchat"
+        },
+        {
+          "title": "Project: Building a conversational Chatbot",
+          "snippet": "Aim of the project is to build an intelligent conversational chatbot, Riki, that can understand complex queries from the user and intelligently respond.",
+          "link": "https://www.kaggle.com/code/jyotiprasadpal/project-building-a-conversational-chatbot"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "bitext/Mistral-7B-Customer-Support",
+          "snippet": "This dataset includes instructions and responses across a variety of customer service topics, ensuring that the model can handle a wide range of ...",
+          "link": "https://huggingface.co/bitext/Mistral-7B-Customer-Support"
+        },
+        {
+          "title": "reddgr/talking-to-chatbots-unwrapped-chats \u00b7 Datasets at ...",
+          "snippet": "A custom chatbot would be better for those use cases than Bing's chatbot ... Customer support interactions in written format (support tickets, chat messages\u2026) ...",
+          "link": "https://huggingface.co/datasets/reddgr/talking-to-chatbots-unwrapped-chats"
+        },
+        {
+          "title": "rjac/e-commerce-customer-support-qa \u00b7 Datasets at ...",
+          "snippet": "confidently handles complex customer issues, excel in de-escalation, and possess the ability to empathize with customers, providing them with effective ...",
+          "link": "https://huggingface.co/datasets/rjac/e-commerce-customer-support-qa"
+        },
+        {
+          "title": "lmsys/lmsys-chat-1m \u00b7 Datasets at ...",
+          "snippet": "This dataset contains one million real-world conversations with 25 state-of-the-art LLMs. It is collected from 210K unique IP addresses in the wild.",
+          "link": "https://huggingface.co/datasets/lmsys/lmsys-chat-1m"
+        }
+      ],
+      "github": [
+        {
+          "title": "Customer support chatbot based on seq2seq model.",
+          "snippet": "This project implements chatbot which tries to answer users questions as customer support agent. Following customer support chatbots were implemented.",
+          "link": "https://github.com/ldulcic/customer-support-chatbot"
+        },
+        {
+          "title": "Fine-Tune-LLaMA-Model-with-Customer-Support-Chatbot-Dataset",
+          "snippet": "This project focuses on fine-tuning the LLaMA model using a curated customer support chatbot dataset to enhance its performance in providing accurate and ...",
+          "link": "https://github.com/MehdiRezvandehy/Fine-Tune-LLaMA-with-Customer-Support-Chatbot-Dataset"
+        },
+        {
+          "title": "FareedKhan-dev/AI-Chatbot-Conversation-Dataset",
+          "snippet": "The original data contains 500k conversations, but this is just a sample. You can download the 10k dataset with personal and sensitive information removed.",
+          "link": "https://github.com/FareedKhan-dev/AI-Chatbot-Conversation-Dataset"
+        },
+        {
+          "title": "bruce619/ticketing_qa_chatbot: A intelligent chatbot ...",
+          "snippet": "A intelligent chatbot along with an analytics dashboard for SMEs looking to improve customer service - client interaction and keeping track of analytics.",
+          "link": "https://github.com/bruce619/ticketing_qa_chatbot"
+        }
+      ]
+    },
+    "Dynamic Pricing Optimization": {
+      "kaggle": [
+        {
+          "title": "Dynamic Pricing Dataset",
+          "snippet": "Your goal is to build a dynamic pricing model that incorporates the provided features to predict optimal fares for rides in real-time. The model must consider ...",
+          "link": "https://www.kaggle.com/datasets/arashnic/dynamic-pricing-dataset"
+        },
+        {
+          "title": "Retail Price Optimization",
+          "snippet": "Price optimization is using historical data to identify the most appropriate price of a product or a service that maximizes the company's profitability.",
+          "link": "https://www.kaggle.com/datasets/suddharshan/retail-price-optimization"
+        },
+        {
+          "title": "The Art of Demand-Based Pricing Optimization",
+          "snippet": "Transforming data from arrival date to stay date\u200b\u200b The pricing model we are building optimizes at the stay-day level. However, the current dataset only has an ...",
+          "link": "https://www.kaggle.com/code/juanjosemuozpanos/the-art-of-demand-based-pricing-optimization"
+        },
+        {
+          "title": "Dataset for dynamic pricing in E-Commerce",
+          "snippet": "Dataset for dynamic pricing in E-Commerce \u00b7 1.Base Price \u00b7 2.Product Quality \u00b7 3.After Sales Service \u00b7 4.Delivery Time \u00b7 5.Seller Reputation \u00b7 6.Selling Price()",
+          "link": "https://www.kaggle.com/general/47330"
+        },
+        {
+          "title": "Revenue Forecast for Dynamic Pricing",
+          "snippet": "The goal is to develop a model based on the data of a period of three months and to use this model to forecast revenue figures for the following month.",
+          "link": "https://www.kaggle.com/datasets/oscarm524/revenue-forecast"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "PranavSharma/dynamic-pricing-model",
+          "snippet": "Model description. This is a regression model trained on the Dynamic Pricing Dataset. It was optimized using grid search with multiple hyperparameters.",
+          "link": "https://huggingface.co/PranavSharma/dynamic-pricing-model"
+        },
+        {
+          "title": "Dynamic Pricing for Airline Ancillaries with Customer Context",
+          "snippet": "A dynamic pricing model using deep learning techniques outperforms traditional methods by optimizing revenue per customer and improving conversion rates in the ...",
+          "link": "https://huggingface.co/papers/1902.02236"
+        },
+        {
+          "title": "Daily Papers",
+          "snippet": "In this paper, we present and compare three approaches for dynamic pricing of ancillaries, with increasing levels of sophistication: (1) a two-stage forecasting ...",
+          "link": "https://huggingface.co/papers?q=dynamic%20pricing%20mechanism"
+        },
+        {
+          "title": "roborovski/synthetic-tool-calls \u00b7 Datasets at ...",
+          "snippet": "The dynamic pricing for a ride from 10 Main Street to 22 Broadway, with a distance of 2 miles, a duration of 30 minutes, and a demand of 22 is $33.50. {'name': ...",
+          "link": "https://huggingface.co/datasets/roborovski/synthetic-tool-calls"
+        }
+      ],
+      "github": [
+        {
+          "title": "sumeetk123/Dynamic-Pricing-Strategies-for-Retail-A-Data- ...",
+          "snippet": "In this project, we focus on optimizing retail pricing strategies through data-driven methods. By generating a comprehensive dataset and applying machine ...",
+          "link": "https://github.com/sumeetk123/Dynamic-Pricing-Strategies-for-Retail-A-Data-Driven-Approach"
+        },
+        {
+          "title": "dynamic-pricing \u00b7 GitHub Topics",
+          "snippet": "Dynamic Pricing Simulation is a Python project that models and analyzes retail pricing strategies using real-world datasets. It allows simulation of dynamic ...",
+          "link": "https://github.com/topics/dynamic-pricing"
+        },
+        {
+          "title": "dimvasdim/Thesis: Dynamic pricing of e-shop products ...",
+          "snippet": "This diploma thesis proposes a system for the dynamic pricing of products of an e-commerce store, through machine learning models.",
+          "link": "https://github.com/dimvasdim/Thesis"
+        },
+        {
+          "title": "GitHub - SyedsPortfolio/Dynamic-Pricing-Strategy",
+          "snippet": "It is used by companies to optimize revenue by setting flexible prices that respond to market demand, demographics, customer behaviour and competitor prices.",
+          "link": "https://github.com/SyedsPortfolio/Dynamic-Pricing-Strategy"
+        }
+      ]
+    },
+    "AI-Driven Supply Chain Optimization": {
+      "kaggle": [
+        {
+          "title": "Supply Chain DataSet",
+          "snippet": "Supply chain analytics is a valuable part of data-driven decision-making in various industries such as manufacturing, retail, healthcare, and logistics.",
+          "link": "https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset"
+        },
+        {
+          "title": "Data Analysis- Supply Chain Optimization",
+          "snippet": "Explore and run machine learning code with Kaggle Notebooks | Using data from Supply Chain Analysis.",
+          "link": "https://www.kaggle.com/code/gelarerouzbahani/data-analysis-supply-chain-optimization"
+        },
+        {
+          "title": "Inventory Optimization for Retail\u200b\u200b",
+          "snippet": "This dataset enables AI-driven demand forecasting, inventory tracking, and pricing optimization to reduce stockouts, minimize holding costs, and improve supply ...",
+          "link": "https://www.kaggle.com/datasets/suvroo/inventory-optimization-for-retail"
+        },
+        {
+          "title": "Green Supply Chain Dataset",
+          "snippet": "Use Cases: Optimizing supply chains using AI-driven decision-making. Evaluating green computing strategies in logistics and manufacturing.",
+          "link": "https://www.kaggle.com/datasets/ziya07/green-supply-chain-dataset"
+        },
+        {
+          "title": "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS",
+          "snippet": "Dataset of Supply Chain , which allows the use of Machine Learning Algorithms and R Software. Areas of important registered activities : Provisioning , ...",
+          "link": "https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "DL02/TM \u00b7 Datasets at Hugging Face",
+          "snippet": "AI powered optimization Identifying Leak detection and repair systems at compression stations. Using analytics to predict the failure of the equipment at ...",
+          "link": "https://huggingface.co/datasets/DL02/TM"
+        },
+        {
+          "title": "Prajwal3009/unisys1 \u00b7 Datasets at Hugging Face",
+          "snippet": "... AI-driven systems seamlessly, enabling autonomous decision-making and adaptive responses. ... supply chain operations by forecasting demand ... Optimization ...",
+          "link": "https://huggingface.co/datasets/Prajwal3009/unisys1"
+        },
+        {
+          "title": "arcee-ai/agent-data \u00b7 Datasets at Hugging Face",
+          "snippet": "**Supply Chain Optimization**: AI can analyze data on weather patterns, crop yields, and demand to optimize crop planning, logistics, and inventory ...",
+          "link": "https://huggingface.co/datasets/arcee-ai/agent-data"
+        },
+        {
+          "title": "tools_qa_pairs.jsonl \u00b7 dkhundley/genericorp-dataset at main",
+          "snippet": "\", \"answer\": \"TitanFlow is an AI-powered supply chain optimization tool designed for tracking raw material procurement, shipping logistics, and ...",
+          "link": "https://huggingface.co/datasets/dkhundley/genericorp-dataset/blob/main/tools_qa_pairs.jsonl"
+        }
+      ],
+      "github": [
+        {
+          "title": "Supply Chain Optimization with Demand Forecasting",
+          "snippet": "This project aims to optimize the supply chain by predicting weekly sales for various stores using a machine learning approach.",
+          "link": "https://github.com/A1fred00-datascience/Supply-Chain-Optimization"
+        },
+        {
+          "title": "MadryLab/AIaaS_Supply_Chains: Dataset and overview",
+          "snippet": "This dataset provides a comprehensive view of AI industry companies and their relative positions and influence in the development of AIaaS.",
+          "link": "https://github.com/MadryLab/AIaaS_Supply_Chains"
+        },
+        {
+          "title": "SupplyGraph | A Benchmark Dataset for Supply Chain ...",
+          "snippet": "This paper introduces a real-world graph dataset empowering researchers to leverage GNNs for supply chain problem-solving, enhancing production planning ...",
+          "link": "https://github.com/ciol-researchlab/SupplyGraph"
+        },
+        {
+          "title": "ankitrajsh/Supply-Chain-Optimization",
+          "snippet": "A repository for applying ML to optimize supply chain management, covering demand forecasting, inventory, logistics, and supplier selection.",
+          "link": "https://github.com/ankitrajsh/Supply-Chain-Optimization"
+        }
+      ]
+    },
+    "Automated Product Description Generation": {
+      "kaggle": [
+        {
+          "title": "Gen AI Product Description & Social Post Generator",
+          "snippet": "This project demonstrates the application of Generative AI, specifically a multimodal Google Gemini model, to automate the creation of e-commerce product ...",
+          "link": "https://www.kaggle.com/code/bouachachamelnadir/gen-ai-product-description-social-post-generator"
+        },
+        {
+          "title": "AI Tools Data",
+          "snippet": "This dataset can be used for a variety of purposes, including: Market Research: Analyzing trends in AI tool development and identifying popular categories.",
+          "link": "https://www.kaggle.com/datasets/shahmirkiani/ai-tools-data"
+        },
+        {
+          "title": "REGEN: Reviews Enhanced with Generative Narratives",
+          "snippet": "REGEN is a synthetic dataset designed to evaluate the conversational capabilities of Recommender Language Models (RLMs).",
+          "link": "https://www.kaggle.com/datasets/googleai/regen-reviews-enhanced-with-generative-narratives"
+        },
+        {
+          "title": "Text data",
+          "snippet": "Text data can be used to generate creative text formats, such as poems, code, scripts, musical pieces, email, letters, etc.",
+          "link": "https://www.kaggle.com/code/vinitkp/text-data"
+        },
+        {
+          "title": "1. Introduction to Generative AI",
+          "snippet": "Generative AI is a field of artificial intelligence that focuses on creating new content based on patterns learned from existing data.",
+          "link": "https://www.kaggle.com/general/567174"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "genloop/llama-3.2-11b-instruct-amazon-product- ...",
+          "snippet": "This model has been finetuned on the Amazon-Product-Descriptions dataset. The reference descriptions were generated using Gemini Flash. Training hyperparameters.",
+          "link": "https://huggingface.co/genloop/llama-3.2-11b-instruct-amazon-product-description-merged-model"
+        },
+        {
+          "title": "Introducing the Synthetic Data Generator - Build Datasets ...",
+          "snippet": "Introducing the Synthetic Data Generator, a user-friendly application that takes a no-code approach to creating custom datasets with Large Language Models ( ...",
+          "link": "https://huggingface.co/blog/synthetic-data-generator"
+        },
+        {
+          "title": "bprateek/amazon_product_description \u00b7 Datasets at ...",
+          "snippet": "Science education products and manipulatives incorporate applied math and science principles into classroom or homeschool projects. Teachers in pre-K, ...",
+          "link": "https://huggingface.co/datasets/bprateek/amazon_product_description"
+        },
+        {
+          "title": "Salesforce/xlam-function-calling-60k \u00b7 Datasets at ...",
+          "snippet": "APIGen Function-Calling Datasets ... This repo contains 60,000 data collected by APIGen, an automated data generation pipeline designed to produce verifiable high ...",
+          "link": "https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k"
+        }
+      ],
+      "github": [
+        {
+          "title": "google-marketing-solutions/description_genius",
+          "snippet": "Easily generate and translate captivating product descriptions using product features and additional sources of information like customer reviews or usage ...",
+          "link": "https://github.com/google-marketing-solutions/description_genius"
+        },
+        {
+          "title": "aws-samples/sample-retail_genai_style_classifier",
+          "snippet": "A sophisticated multimodal AI solution that transforms manual product classification into an efficient, automated process.",
+          "link": "https://github.com/aws-samples/sample-retail_genai_style_classifier"
+        },
+        {
+          "title": "THUDM/KOBE: Towards Knowledge-Based Personalized ...",
+          "snippet": "This repo contains code and pre-trained models for KOBE, a sequence-to-sequence based approach for automatically generating product descriptions.",
+          "link": "https://github.com/THUDM/KOBE"
+        },
+        {
+          "title": "aws-samples/sample-ai-powered-product-catalog",
+          "snippet": "The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. License. MIT-0 license.",
+          "link": "https://github.com/aws-samples/sample-ai-powered-product-catalog"
+        }
+      ]
+    },
+    "Fraud Detection and Prevention": {
+      "kaggle": [
+        {
+          "title": "Credit Card Fraud Detection",
+          "snippet": "Credit Card Fraud Detection. Anonymized credit card transactions labeled as fraudulent or genuine. arrow_drop_up 12434.",
+          "link": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"
+        },
+        {
+          "title": "Fraud Detection Dataset",
+          "snippet": "With this dataset, you can investigate fraudulent behavior, identify indicators of fraud, and develop effective fraud detection models. Uncover the secrets of ...",
+          "link": "https://www.kaggle.com/datasets/goyaladi/fraud-detection-dataset"
+        },
+        {
+          "title": "Financial Fraud Detection Dataset",
+          "snippet": "Please note that transactions marked as fraudulent have been nullified, emphasizing the importance of non-balance columns for fraud analysis. This dataset is a ...",
+          "link": "https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset"
+        },
+        {
+          "title": "Credit Card Transactions Fraud Detection Dataset",
+          "snippet": "This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020.",
+          "link": "https://www.kaggle.com/datasets/kartik2112/fraud-detection"
+        },
+        {
+          "title": "Synthetic Financial Datasets For Fraud Detection",
+          "snippet": "In this specific dataset the fraudulent behavior of the agents aims to profit by taking control ... Synthetic Fraud Detection Dataset. more_vert. mexwell \u00b7 ...",
+          "link": "https://www.kaggle.com/datasets/ealaxi/paysim1"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "globosetechnology12/Fraud-Detection-in-Financial-Services",
+          "snippet": "A comprehensive fraud detection system was developed using advanced anomaly detection models, combining supervised and unsupervised learning techniques. The ...",
+          "link": "https://huggingface.co/datasets/globosetechnology12/Fraud-Detection-in-Financial-Services"
+        },
+        {
+          "title": "amitkedia/Financial-Fraud-Dataset",
+          "snippet": "The dataset consists of 85 companies involved in fraudulent cases and an equal number of companies not involved in fraudulent activities. The Fillings column ...",
+          "link": "https://huggingface.co/datasets/amitkedia/Financial-Fraud-Dataset"
+        },
+        {
+          "title": "purulalwani/Synthetic-Financial-Datasets-For-Fraud ...",
+          "snippet": "Datasets: \u00b7 purulalwani. /. Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned. like 2. Modalities: Text. Formats: parquet. Size: 1M - 10M.",
+          "link": "https://huggingface.co/datasets/purulalwani/Synthetic-Financial-Datasets-For-Fraud-Detection-Cleaned"
+        },
+        {
+          "title": "Bilic/Mistral-7B-LLM-Fraud-Detection",
+          "snippet": "A fine-tuned version of the Mistral-7B-v0.1 generative text model using a variety of synthetically generated Fraudulent transcripts datasets.",
+          "link": "https://huggingface.co/Bilic/Mistral-7B-LLM-Fraud-Detection"
+        }
+      ],
+      "github": [
+        {
+          "title": "amazon-science/fraud-dataset-benchmark",
+          "snippet": "The FDB aims to cover a wide variety of fraud detection tasks, ranging from card not present transaction fraud, bot attacks, malicious traffic, loan risk and ...",
+          "link": "https://github.com/amazon-science/fraud-dataset-benchmark"
+        },
+        {
+          "title": "Bank Account Fraud (BAF) Tabular Dataset Suite",
+          "snippet": "We present Bank Account Fraud (BAF), the first publicly available 1 privacy-preserving, large-scale, realistic suite of tabular datasets.",
+          "link": "https://github.com/feedzai/bank-account-fraud"
+        },
+        {
+          "title": "Pyligent/CMS-Medicare-Data-FRAUD-Detection",
+          "snippet": "This Capstone project will build a Medicare Fraud Detection model to analyze open data and predict/detect the fraudulent Medicare providers.",
+          "link": "https://github.com/Pyligent/CMS-Medicare-Data-FRAUD-Detection"
+        },
+        {
+          "title": "Fraud Detection with Deep Neural Networks (DNN) \ud83e\udde0 \u26a0\ufe0f",
+          "snippet": "A hands-on personal project to predict fraudulent financial transactions using deep learning. Covers the full pipeline: from exploratory data analysis (EDA) ...",
+          "link": "https://github.com/sergio11/online_payment_fraud"
+        }
+      ]
+    },
+    "Personalized Marketing Campaigns": {
+      "kaggle": [
+        {
+          "title": "Marketing Campaign Performance Dataset",
+          "snippet": "With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer ...",
+          "link": "https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset"
+        },
+        {
+          "title": "Marketing Campaign",
+          "snippet": "A response model can provide a significant boost to the efficiency of a marketing campaign by increasing responses or reducing expenses.",
+          "link": "https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign"
+        },
+        {
+          "title": "Marketing Strategy - Personalised Offer",
+          "snippet": "Understand the user behaviours regarding the offers.",
+          "link": "https://www.kaggle.com/competitions/marketing-strategy-personalised-offer"
+        },
+        {
+          "title": "Marketing Campaigns_EDA",
+          "snippet": "This dataset includes information on customer demographics, purchase behavior, and responses to various marketing campaigns. Utilize this data to gain insights ...",
+          "link": "https://www.kaggle.com/code/jigsaw13/marketing-campaigns-eda"
+        },
+        {
+          "title": "Cloud-Enabled Marketing Strategy Dataset",
+          "snippet": "The dataset is ideal for developing machine learning models to predict customer responses, personalize marketing efforts, and assess the effectiveness of ...",
+          "link": "https://www.kaggle.com/datasets/ziya07/cloud-enabled-marketing-strategy-dataset"
+        }
+      ],
+      "huggingface": [
+        {
+          "title": "RafaM97/marketing_social_media \u00b7 Datasets at ...",
+          "snippet": "This repository contains a dataset specifically designed for generating marketing content. The dataset includes various features that are crucial for crafting ...",
+          "link": "https://huggingface.co/datasets/RafaM97/marketing_social_media"
+        },
+        {
+          "title": "MuratcanKoylan/MarketingStructuralPrompts \u00b7 Datasets at ...",
+          "snippet": "Marketing Campaign Development: A valuable tool for marketers, this dataset aids in the ideation and development of comprehensive marketing campaigns ...",
+          "link": "https://huggingface.co/datasets/MuratcanKoylan/MarketingStructuralPrompts"
+        },
+        {
+          "title": "marketeam/Nemotron-Personas-Marketing \u00b7 Datasets at ...",
+          "snippet": "Tan Shoji, a 21-year-old marketing manager, balances her competitive nature with Midwestern cooperation, infusing her campaigns with traditional art and ...",
+          "link": "https://huggingface.co/datasets/marketeam/Nemotron-Personas-Marketing"
+        },
+        {
+          "title": "WHATX/SusGen-30k \u00b7 Datasets at Hugging Face",
+          "snippet": "Personalizing marketing: AI algorithms can analyze customer data to create highly targeted and personalized marketing campaigns. These ...",
+          "link": "https://huggingface.co/datasets/WHATX/SusGen-30k"
+        }
+      ],
+      "github": [
+        {
+          "title": "RFM Analysis (Customer segmentation)",
+          "snippet": "This project implements RFM (Recency, Frequency, Monetary) analysis to segment customers and identify opportunities for targeted marketing campaigns.",
+          "link": "https://github.com/M0hamedIbrahim1/RFM-Analysis"
+        },
+        {
+          "title": "Predict Customer Personality to Boost Marketing Campaign",
+          "snippet": "This project is my personal project about Marketing Campaign using dataset from Big Tech Company provided by Rakamain Academy. I created Clustering Model with ...",
+          "link": "https://github.com/Putriarrum/Predict-Customer-Personality-to-Boost-Up-Marketing-Campaign-Performance"
+        },
+        {
+          "title": "Leafl19/Marketing-Campaign-Performance-Audience ...",
+          "snippet": "This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing ...",
+          "link": "https://github.com/Leafl19/Marketing-Campaign-Performance-Audience-Analysis"
+        },
+        {
+          "title": "marketing-campaign \u00b7 GitHub Topics",
+          "snippet": "This project analyzes the performance of Spring, Summer, and Fall marketing campaigns, revealing key insights and actionable recommendations.",
+          "link": "https://github.com/topics/marketing-campaign"
+        }
+      ]
+    }
+  }
+}
