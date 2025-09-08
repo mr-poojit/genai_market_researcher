@@ -1,6 +1,6 @@
 google-generativeai
 google-search-results==2.4.0
-serpapi
+serpapi==0.1.5
 python-dotenv
 streamlit
 requests
